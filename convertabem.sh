@@ -23,6 +23,7 @@ function twork(){
 	|sed 's/  //'\
 	|sed 's/ //'\
 	|sed 's/ABEM//'\
+	|sed 's/AFTERJ//'\
 	|sed 's/ OK//'\
 	|sed 's/  OK//'\
 	|sed 's/,00*/,/'\
